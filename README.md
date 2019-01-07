@@ -8,6 +8,11 @@ Once the child login is set you reach the stage selection. The character moves a
 The appropriate icons are dragged over the holes or blank buttons. A score is kept 
 and a progress report is available for the adult account.
 
+[Full code to Android Game 2](https://github.com/jinxTelesis/IndividualProject4AndreL)
+[Full code to Android Game 1](https://github.com/jinxTelesis/IndividualProject3)
+
+[Lets go to Quora](https://www.quora.com)
+
 ![Android Game 2](Game2Selection.png?raw=true "Game Selection")
 
 Stage 1 of the first game 
@@ -62,20 +67,26 @@ Android Login V1 starts with a splash screen then a login with an option to regi
 if the user is registered and provides the correct credentials they are allowed into 
 the main activity which does nothing. later apps use firebase login
 
-![Android Login v1](splashProject1.png?raw=true "Splash screen")
+[Full code to Android Login V1](https://github.com/jinxTelesis/AndroidLoginRegister)
+
+
+![Android Login V1](splashProject1.png?raw=true "Splash screen")
 
 Login screen for Android Login v1
 
-![Android Login v1](LoginProject1.png?raw=true "Login")
+![Android Login V1](LoginProject1.png?raw=true "Login")
 
 Registration page for Android Login v1
 
-![Android Login v1](RegistrationProject1.png?raw=true "Registration")
+![Android Login V1](RegistrationProject1.png?raw=true "Registration")
 
 Android Quiz V1 is a short quiz game that scores the user
 It has a login, registration and the asks 5 normal question
 and one wager question, then reports the 3 highest scores achieved
 on the device.
+
+[Android Quiz V1](https://github.com/jinxTelesis/IndividualProjectQuest2V1)
+
 
 ![Android Quiz V1](quiz_selection_screen.png?raw=true "Quiz selection")
 
