@@ -81,11 +81,13 @@ on the device.
 
 Game rules
 
-![Android Quiz V1](quiz_selection_screen.png?raw=true "Quiz rules")
+
+![Android Quiz V1](rules.png?raw=true "Rules")
 
 Example question
 
-![Android Quiz V1](rules.png?raw=true "Rules")
+![Android Quiz V1](gamequestion2.png?raw=true "Game question 2")
+
 
 Example question 2
 
