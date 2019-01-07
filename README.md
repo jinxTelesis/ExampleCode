@@ -8,12 +8,11 @@ Once the child login is set you reach the stage selection. The character moves a
 The appropriate icons are dragged over the holes or blank buttons. A score is kept 
 and a progress report is available for the adult account.
 
-[Full code to Android Game 2     ]<br>(https://github.com/jinxTelesis/IndividualProject4AndreL)
-[Full code to Android Game 1](https://github.com/jinxTelesis/IndividualProject3)
-
-
+[Full code to Android Game 2](https://github.com/jinxTelesis/IndividualProject4AndreL)
 
 ![Android Game 2](Game2Selection.png?raw=true "Game Selection")
+
+[Full code to Android Game 1](https://github.com/jinxTelesis/IndividualProject3)
 
 Stage 1 of the first game 
 
