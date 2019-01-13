@@ -62,6 +62,22 @@ Final stage of second game
 
 ![Android Game 2](InsaneStage3.png?raw=true "Final stage game 2")
 
+
+Android Me is built from image resources supplied to me through the school, it might 
+a project somewhere else you can buy. Either way this is the solution I provided to have
+fragments display the body parts and adapters & listeners need for functionality
+
+[Full code to Android Game 2](https://github.com/jinxTelesis/Android_Me-masterAndreL)
+
+![Android Me](AndroidMe1.png?raw=true "Android me")
+
+![Android Me](AndroidMe2.png?raw=true "Android me")
+
+![Android Me](AndroidMe3.png?raw=true "Android me")
+
+![Android Me](AndroidMe4.png?raw=true "Android me")
+
+
 Android Login V1 starts with a splash screen then a login with an option to register
 if the user is registered and provides the correct credentials they are allowed into 
 the main activity which does nothing. later apps use firebase login
