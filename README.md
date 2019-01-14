@@ -1,6 +1,5 @@
 # ExampleCode
-collection of recent work - fully commented
-object code can be found in this repo - and hyperlinks for full project below
+Collection of recent work - Readme has URLs to full code and screenshots
 
 Android Game 1  & 2 both have logins and registration pages. Both use duel logins
 for both Adult and child. The Adult account only views the child accounts progress.
@@ -85,8 +84,6 @@ the main activity which does nothing. later apps use firebase login
 [Full code to Android Login V1](https://github.com/jinxTelesis/AndroidLoginRegister)
 
 
-![Android Login V1](splashProject1.png?raw=true "Splash screen")
-
 Login screen for Android Login v1
 
 ![Android Login V1](LoginProject1.png?raw=true "Login")
@@ -169,7 +166,8 @@ it will read in that data and then display specific information on the highlight
 
 ![Country GUI V2](photo2.png?raw=true "Country display")
 
-Import example 
+Import example
+
 ![Country GUI V2](photo3.png?raw=true "Country display")
 
 ![Country GUI V2](photo4.png?raw=true "Country display")
