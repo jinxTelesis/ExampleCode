@@ -1,5 +1,5 @@
 # ExampleCode
-Collection of recent work - Readme has URLs to full code and screenshots
+Readme has URLs to full code and screenshots
 
 Android Game 1  & 2 both have logins and registration pages. Both use duel logins
 for both Adult and child. The Adult account only views the child accounts progress.
