@@ -77,21 +77,6 @@ fragments display the body parts and adapters & listeners need for functionality
 ![Android Me](AndroidMe4.png?raw=true "Android me")
 
 
-Android Login V1 starts with a splash screen then a login with an option to register
-if the user is registered and provides the correct credentials they are allowed into 
-the main activity which does nothing. later apps use firebase login
-
-[Full code to Android Login V1](https://github.com/jinxTelesis/AndroidLoginRegister)
-
-
-Login screen for Android Login v1
-
-![Android Login V1](LoginProject1.png?raw=true "Login")
-
-Registration page for Android Login v1
-
-![Android Login V1](RegistrationProject1.png?raw=true "Registration")
-
 Android Quiz V1 is a short quiz game that scores the user
 It has a login, registration and the asks 5 normal question
 and one wager question, then reports the 3 highest scores achieved
