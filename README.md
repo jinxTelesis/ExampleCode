@@ -57,10 +57,6 @@ Game two medium scoreboard
 
 ![Android Game 2](MediumStageScore.png?raw=true "Medium difficulty scoreboard")
 
-Final stage of second game
-
-![Android Game 2](InsaneStage3.png?raw=true "Final stage game 2")
-
 
 Android Me is built from image resources supplied to me through the school, it might 
 a project somewhere else you can buy. Either way this is the solution I provided to have
