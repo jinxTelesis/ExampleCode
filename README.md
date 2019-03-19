@@ -1,15 +1,21 @@
 # ExampleCode
 Readme has URLs to full code and screenshots
 
+Screen Shot 1
+
+![Java Spring Business Website](BusinessWebsite2.png?raw=true "Business Website")
+
+[Full code to Java Spring Business Website](https://github.com/jinxTelesis/lifo)
+
+Screen Shot 2
+
+![Java Spring Business Website](BusinessWebsite1.png?raw=true "Business Website")
+
 Android Game 1  & 2 both have logins and registration pages. Both use duel logins
 for both Adult and child. The Adult account only views the child accounts progress.
 Once the child login is set you reach the stage selection. The character moves after 
 The appropriate icons are dragged over the holes or blank buttons. A score is kept 
 and a progress report is available for the adult account.
-
-![Java Spring Business Website](BusinessWebsite2.png?raw=true "Business Website")
-
-![Java Spring Business Website](BusinessWebsite1.png?raw=true "Business Website")
 
 [Full code to Android Game 2](https://github.com/jinxTelesis/IndividualProject4AndreL)
 
