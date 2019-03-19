@@ -11,6 +11,8 @@ Screen Shot 2
 
 ![Java Spring Business Website](BusinessWebsite1.png?raw=true "Business Website")
 
+
+
 Android Game 1  & 2 both have logins and registration pages. Both use duel logins
 for both Adult and child. The Adult account only views the child accounts progress.
 Once the child login is set you reach the stage selection. The character moves after 
