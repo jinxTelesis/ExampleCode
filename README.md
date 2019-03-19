@@ -3,11 +3,15 @@ Readme has URLs to full code and screenshots
 
 Screen Shot 1
 
-![Java Spring Business Website](BusinessWebsite2.png?raw=true "Business Website")
+![Java Spring Business Website](BusinessWebsite2.png?raw=true "Business Website") 
+
+
 
 [Full code to Java Spring Business Website](https://github.com/jinxTelesis/lifo)
 
+
 Screen Shot 2
+
 
 ![Java Spring Business Website](BusinessWebsite1.png?raw=true "Business Website")
 
