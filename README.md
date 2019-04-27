@@ -1,5 +1,8 @@
 # ExampleCode
-Readme has URLs to full code and screenshots
+Readme has URLs to full code and screenshots.
+
+The first few screenshots are of a Spring Boot business website. It contains a login, spring security, registration form
+and few simple APIs and some. It uses JPA and Hibernate to store Java objects as SQL on a MariaDB database.The template engine is thymeleaf not JSP, but thymeleaf is fairly close to JSP. There is considerable use of fragments within the Thymeleaf which helps reduce redudent code. 
 
 Screen Shot 1
 
